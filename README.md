@@ -1,6 +1,6 @@
 # Project Game D (Codename) Website
 
-{Project short overview}
+A website for an endless running game.
 
 ## Description
 
